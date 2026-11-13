@@ -1,7 +1,7 @@
 # CLAUDE.md — FRC Team 8352 CODE Gold robot code
 
 Off-season (2026-27) robot code for 313 Robotics / FRC Team 8352 CODE Gold.
-Repo: https://github.com/CodeGold8352/SDS-Kraken-Base-Drive (public fork of carrierussell/SDS-Kraken-Base-Drive).
+Repo: https://github.com/CodeGold8352/student-autos — student practice copy of https://github.com/CodeGold8352/SDS-Kraken-Base-Drive (the real robot code). Changes here are not copied back automatically; a mentor ports finished autos to the main repo.
 
 ## Stack
 - WPILib 2026 (GradleRIO 2026.2.1), Java, command-based
